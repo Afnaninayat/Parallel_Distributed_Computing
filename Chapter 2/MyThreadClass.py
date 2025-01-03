@@ -1,5 +1,3 @@
-/*************  ✨ Codeium Command 🌟  *************/
-Create a class that extends Thread and overrides the run method to print a message and sleep for a random amount of time.
 import time
 import os
 from random import randint
@@ -68,4 +66,3 @@ if __name__ == "__main__":
 
 
 
-/******  26321da3-8487-4722-a9e5-9d7b7322ce22  *******/
