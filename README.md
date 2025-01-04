@@ -98,7 +98,7 @@ git clone https://github.com/yourusername/python-parallel-programming-cookbook.g
 
 
 
-### Steps to Save as a File in VS Code:
+### Steps to Save as a File in VS Code::
 1. Open **Visual Studio Code**.
 2. Create a new file: `File > New File`.
 3. Paste the above content.
