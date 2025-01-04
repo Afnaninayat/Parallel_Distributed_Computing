@@ -1,5 +1,3 @@
-/*************  ✨ Codeium Command 🌟  *************/
-Added a subclass of multiprocessing.Process that overrides the run method
 import multiprocessing
 
 class MyProcess(multiprocessing.Process):
@@ -14,4 +12,4 @@ if __name__ == '__main__':
         process.start()
         process.join()
 
-/******  3dd4c128-4033-4992-bfc7-f4f8aa27cced  *******/
+
